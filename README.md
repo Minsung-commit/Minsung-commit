@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 ### Hi there  👋
 ### Thank you for visiting my Git, I'm Lee, Minsung who is studying Data, DA
 ### My git is for recording my study and story, so it might seem to be massy lol, I'm sorry for that. Even though you feel like it is useless, those things are consisting of me. So I hope you to enjoy my git.

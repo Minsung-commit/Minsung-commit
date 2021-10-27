@@ -1,5 +1,6 @@
 ### Hi there  👋
-
+### Thank you for visiting my Git, I'm Lee, Minsung who is studying Data, DA
+### My git is for recording my study and story, so it might seem to be massy lol, I'm sorry for that. Even though you feel like it is useless, those things are consisting of me. So I hope you to enjoy my git.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinsung-commit&count_bg=%23563ED3&title_bg=%23000000&icon=&icon_color=%233E74B9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>

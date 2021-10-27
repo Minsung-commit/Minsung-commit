@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Lee, Minsung&fontSize=90" />
 
 ### Hi there  👋
 ### Thank you for visiting my Git, I'm Lee, Minsung who is studying Data, DA

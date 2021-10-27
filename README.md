@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=Lee, Minsung&fontSize=70" />
 
 ### Hi there  👋
-### Thank you for visiting my Git, I'm Lee, Minsung who is studying Data, DA
-### My git is for recording my study and story, so it might seem to be massy lol, I'm sorry for that. Even though you feel like it is useless, those things are consisting of me. So I hope you to enjoy my git.
+### Thank you for visiting my Git, I'm Lee, Minsung becomming a Data Analyst
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minsung-commit)](https://github.com/anuraghazra/github-readme-stats)
 

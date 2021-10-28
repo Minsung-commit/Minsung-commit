@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Lee, Minsung&fontSize=70" />
 
-### Hi there  👋
+### <center> Hi there  👋 </center>
 ### Thank you for visiting my Git, I'm Lee, Minsung becomming a Data Analyst
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minsung-commit)](https://github.com/anuraghazra/github-readme-stats)
+<center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minsung-commit)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinsung-commit&count_bg=%23563ED3&title_bg=%23000000&icon=&icon_color=%233E74B9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 

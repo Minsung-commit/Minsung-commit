@@ -2,7 +2,7 @@
 
 ### Hi there  👋 
 ### Thank you for visiting my Git, I'm Lee, Minsung becomming a Data Analyst
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minsung-commit&show_icons=true&theme=radical&card_width=2000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minsung-commit&show_icons=true&theme=radical&card_width=3000)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinsung-commit&count_bg=%23563ED3&title_bg=%23000000&icon=&icon_color=%233E74B9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 

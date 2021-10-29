@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Lee, Minsung&fontSize=70" />
-
+<div align="center">
 ### Hi there  👋 
 ### Thank you for visiting my Git, I'm Lee, Minsung becomming a Data Analyst
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minsung-commit&show_icons=true&theme=radical&card_width=3000)
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=HTML&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=CSS&logoColor=white"/></a>&nbsp
-
+</div>
 <!--
 **Minsung-commit/Minsung-commit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

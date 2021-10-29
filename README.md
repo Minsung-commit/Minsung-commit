@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Lee, Minsung&fontSize=70" />
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Lee, Minsung&fontSize=70" />
 ### Hi there  👋 
 ### Thank you for visiting my Git, I'm Lee, Minsung becomming a Data Analyst
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minsung-commit&show_icons=true&theme=radical&card_width=3000)

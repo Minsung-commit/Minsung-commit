@@ -6,6 +6,7 @@
 ### Hi there  👋 
 
 ### Thank you for visiting my Git, I'm Lee, Minsung becomming a Data Analyst
+### To get to know what I did, Please check my pjt list below, 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minsung-commit&show_icons=true&theme=radical&card_width=3000)
 
